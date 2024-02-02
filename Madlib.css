@@ -1,0 +1,37 @@
+/* MadlibForm styles */
+form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #cf8ab0;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* MadlibStory styles */
+  p {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #cf8ab0;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
